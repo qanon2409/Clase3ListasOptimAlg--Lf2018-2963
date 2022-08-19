@@ -7,3 +7,12 @@ C:\Users\Laura\source\repos\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.
 C:\Users\Laura\source\repos\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.pdb
 C:\Users\Laura\source\repos\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.Form1.resources
 C:\Users\Laura\source\repos\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.csproj.GenerateResource.cache
+C:\Users\Weistkfly\OneDrive\Desktop\Courses\UCE\9no\Gestion de software\Clase3ListasOptimAlg--Lf2018-2963\Clase3ListasOptimAlg\bin\Debug\Clase3ListasOptimAlg.exe.config
+C:\Users\Weistkfly\OneDrive\Desktop\Courses\UCE\9no\Gestion de software\Clase3ListasOptimAlg--Lf2018-2963\Clase3ListasOptimAlg\bin\Debug\Clase3ListasOptimAlg.exe
+C:\Users\Weistkfly\OneDrive\Desktop\Courses\UCE\9no\Gestion de software\Clase3ListasOptimAlg--Lf2018-2963\Clase3ListasOptimAlg\bin\Debug\Clase3ListasOptimAlg.pdb
+C:\Users\Weistkfly\OneDrive\Desktop\Courses\UCE\9no\Gestion de software\Clase3ListasOptimAlg--Lf2018-2963\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.csproj.AssemblyReference.cache
+C:\Users\Weistkfly\OneDrive\Desktop\Courses\UCE\9no\Gestion de software\Clase3ListasOptimAlg--Lf2018-2963\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.Form1.resources
+C:\Users\Weistkfly\OneDrive\Desktop\Courses\UCE\9no\Gestion de software\Clase3ListasOptimAlg--Lf2018-2963\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.csproj.GenerateResource.cache
+C:\Users\Weistkfly\OneDrive\Desktop\Courses\UCE\9no\Gestion de software\Clase3ListasOptimAlg--Lf2018-2963\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.csproj.CoreCompileInputs.cache
+C:\Users\Weistkfly\OneDrive\Desktop\Courses\UCE\9no\Gestion de software\Clase3ListasOptimAlg--Lf2018-2963\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.exe
+C:\Users\Weistkfly\OneDrive\Desktop\Courses\UCE\9no\Gestion de software\Clase3ListasOptimAlg--Lf2018-2963\Clase3ListasOptimAlg\obj\Debug\Clase3ListasOptimAlg.pdb
