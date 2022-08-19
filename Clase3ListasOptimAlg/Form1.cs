@@ -136,17 +136,17 @@ namespace Clase3ListasOptimAlg
 
                 case 5:
                     {
-                        foreach (Empleados varEmpleado in emp)
+                        foreach (Empleados varEmple in emp)
                         {
                             listBox1.Items.Add(" ");
-                            listBox1.Items.Add("ID: " + varEmpleado.id);
-                            listBox1.Items.Add("Nombre: " + varEmpleado.nombre);
-                            listBox1.Items.Add("Cargo: " + varEmpleado.cargo);
-                            listBox1.Items.Add("Sueldo: " + varEmpleado.sueldo);
-                            listBox1.Items.Add("Seguro Familiar de Salud: " + varEmpleado.sfs);
-                            listBox1.Items.Add("Administracion de Fondo de Pensiones: " + varEmpleado.afp);
-                            listBox1.Items.Add("Total de Descuento: " + varEmpleado.td);
-                            listBox1.Items.Add("Total de Sueldo: " + varEmpleado.ts);
+                            listBox1.Items.Add("ID: " + varEmple.id);
+                            listBox1.Items.Add("Nombre: " + varEmple.nombre);
+                            listBox1.Items.Add("Cargo: " + varEmple.cargo);
+                            listBox1.Items.Add("Sueldo: " + varEmple.sueldo);
+                            listBox1.Items.Add("Seguro Familiar de Salud: " + varEmple.sfs);
+                            listBox1.Items.Add("Administracion de Fondo de Pensiones: " + varEmple.afp);
+                            listBox1.Items.Add("Total de Descuento: " + varEmple.td);
+                            listBox1.Items.Add("Total de Sueldo: " + varEmple.ts);
                         }
                         break;
                     }
