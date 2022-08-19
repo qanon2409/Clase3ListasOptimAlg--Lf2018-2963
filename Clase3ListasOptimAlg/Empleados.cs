@@ -20,7 +20,7 @@ namespace Clase3ListasOptimAlg
         public double CalcularSfs(double a)
         {
            // 0.0287
-            double b = 0.5689;
+            double b = 0.8596;
             double c = b * a;
             return c;
         }
