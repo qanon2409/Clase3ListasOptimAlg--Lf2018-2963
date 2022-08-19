@@ -104,17 +104,21 @@ namespace Clase3ListasOptimAlg
 
                 case 5:
                     {
-                        foreach (Empleados empi in listaEmpleados)
+BranchRonel
+                        foreach (Empleados varEmple in emp)
+=======
+                        //foreach (Empleados empi in listaEmpleados)
+main
                         {
                             listBox1.Items.Add(" ");
-                            listBox1.Items.Add("ID: " + empi.id);
-                            listBox1.Items.Add("Nombre: " + empi.nombre);
-                            listBox1.Items.Add("Cargo: " + empi.cargo);
-                            listBox1.Items.Add("Sueldo: " + empi.sueldo);
-                            listBox1.Items.Add("Seguro Familiar de Salud: " + empi.sfs);
-                            listBox1.Items.Add("Administracion de Fondo de Pensiones: " + empi.afp);
-                            listBox1.Items.Add("Total de Descuento: " + empi.td);
-                            listBox1.Items.Add("Total de Sueldo: " + empi.ts);
+                            listBox1.Items.Add("ID: " + varEmple.id);
+                            listBox1.Items.Add("Nombre: " + varEmple.nombre);
+                            listBox1.Items.Add("Cargo: " + varEmple.cargo);
+                            listBox1.Items.Add("Sueldo: " + varEmple.sueldo);
+                            listBox1.Items.Add("Seguro Familiar de Salud: " + varEmple.sfs);
+                            listBox1.Items.Add("Administracion de Fondo de Pensiones: " + varEmple.afp);
+                            listBox1.Items.Add("Total de Descuento: " + varEmple.td);
+                            listBox1.Items.Add("Total de Sueldo: " + varEmple.ts);
                         }
                         break;
                     }

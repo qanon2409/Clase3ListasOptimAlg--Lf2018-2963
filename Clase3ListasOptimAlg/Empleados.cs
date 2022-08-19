@@ -17,28 +17,28 @@ namespace Clase3ListasOptimAlg
         public double td;
         public double ts;
 
-        public double Sfs(double a)
+        public double CalculoSfs(double a)
         {
-            double b = 0.0287;
+           // 0.0287
+            double b = 0.8596;
             double c = b * a;
             return c;
-
         }
 
-        public double Afp(double p)
+        public double CalculoAfp(double p)
         {
             double z = 0.0304;
             double y = p * z;
             return y;
         }
 
-        public double Td(double a, double b)
+        public double CalculoTd(double a, double b)
         {
             double c = b + a;
             return c;
         }
 
-        public double Ts(double a, double b)
+        public double CalculoTs(double a, double b)
         {
             double c = a - b;
             return c;
